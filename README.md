@@ -1,2 +1,2 @@
 # Pacman-animation-css
-https://areeba-qamar-pacman.netlify.app/
+https://bisma-touseef-pacman.netlify.app/
