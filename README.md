@@ -1,2 +1,3 @@
-# Pacman-animation-css/
-https://pacman-css.netlify.app/
+# Pacman-animation-css
+netlify:
+https://pacman-css-bisma.netlify.app/
